@@ -25,4 +25,4 @@ urllib3==2.2.1
 virtualenv==20.25.1
 wikipedia==1.4.0
 yarl==1.9.4
-dotenv==1.0.1
+python-dotenv==1.0.1
