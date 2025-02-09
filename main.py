@@ -12,7 +12,7 @@ import os
 
 load_dotenv()  # Load environment variables from .env file
 
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")  # Get the token from environment variable
+TOKEN = os.getenv("TOKEN")  # Get the token from environment variable
 wikipedia.set_lang("uz")
 dp = Dispatcher()
 
